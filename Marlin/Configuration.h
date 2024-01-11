@@ -1198,7 +1198,7 @@
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 79.3, 79.6, 393.12, 690 } // after calibration cube, LDO Orbiter 2.0 M92 E690
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 79, 79, 397, 690 } // after calibration cube, LDO Orbiter 2.0 M92 E690
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
